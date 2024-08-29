@@ -20,6 +20,4 @@ Para mais informações ou para discutir projetos, entre em contato conosco:
 - **Email**: oi@buildvate.com.br
 - **Endereço**: Avenida Paulista, 1106, Sala 01, Andar 16, Bela Vista, Edifício Elijass Gliks-Manis, São Paulo/SP, CEP: 01310-914
 
-## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
