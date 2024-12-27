@@ -1,7 +1,5 @@
 
-# Buildvate
-
-![Buildvate Logo](https://buildvate.com.br/images/logo.svg)
+## Buildvate
 
 Bem-vindo ao repositório oficial da **Buildvate**! 🚀  
 **Buildvate** é uma plataforma inovadora que conecta empresas e instituições de ensino, oferecendo soluções de desenvolvimento tecnológico que geram impacto social e transformam ideias em realidade.
