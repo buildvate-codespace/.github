@@ -32,4 +32,4 @@ Tem alguma dúvida ou sugestão? Entre em contato conosco!
 ---
 
 **© 2025 Buildvate. Todos os direitos reservados.**  
-"🌍 Inspirando o futuro digital, um projeto por vez!"
+🌍 Inspirando o futuro digital, um projeto por vez!
